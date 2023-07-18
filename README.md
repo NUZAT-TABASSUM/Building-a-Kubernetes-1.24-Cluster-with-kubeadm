@@ -3,6 +3,8 @@
 
  This project helps users to start a cluster with tree nodes (1 master and 2 worker nodes).
 
+ ![architecture](image/Picture1.png)
+
 
 ## Deployment
 
